@@ -18,7 +18,7 @@ I am a Software Developer especially interested in **AI integration**, exploring
 ### 📊 2026 Activity Dashboard
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehal05&theme=radical&hide_border=true" width="48%" />
 </p>
 
