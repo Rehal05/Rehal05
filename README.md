@@ -19,7 +19,7 @@ I am a Software Developer especially interested in **AI integration**, exploring
 
 <p align="left">
 
-<img src="https://metrics.lecoq.io/Rehal05?template=classic&base.header=0&base.activity=0&base.community=0&display=regular" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 </p>
 
