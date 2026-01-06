@@ -15,11 +15,12 @@ I am a Software Developer especially interested in **AI integration**, exploring
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true" alt="Stats Card" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehal05&theme=radical&hide_border=true" alt="Streak Card" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
 </p>
 
 ---
