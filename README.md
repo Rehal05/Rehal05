@@ -19,9 +19,8 @@ I am a Software Developer especially interested in **AI integration**, exploring
 
 <p align="left">
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rehal05&show_icons=true&theme=radical" />
-  
-  <img src="https://streak-stats.demolab.com/?user=Rehal05&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=Rehal05&theme=radical&hide_border=true" />
   
 </p>
 
