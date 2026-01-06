@@ -15,18 +15,6 @@ I am a Software Developer especially interested in **AI integration**, exploring
 
 ---
 
-### 📊 2026 Activity Dashboard
-
-<p align="left">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rehal05&show_icons=true&include_all_commits=true" />
-  
-  <img src="https://streak-stats.demolab.com/?user=Rehal05" />
-
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navraj-rehal)
