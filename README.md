@@ -1,4 +1,4 @@
-# Hi, I'm Navraj Singh 👋 
+# Hi, I'm Navraj Rehal 👋 
 
 I am a Software Developer especially interested in **AI integration**, exploring how models can be embedded into the software lifecycle to automate complex workflows and reduce the cognitive load for both developers and end-users. Overall, I strive to build tools that are as technically sound as they are innovative.
 
