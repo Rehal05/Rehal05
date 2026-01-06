@@ -18,12 +18,11 @@ I am a Software Developer especially interested in **AI integration**, exploring
 ### 📊 2026 Activity Dashboard
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehal05&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com/?user=Rehal05&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rehal05&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Rehal05&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-E30D0D?style=for-the-badge&logo=konva&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navraj-rehal
